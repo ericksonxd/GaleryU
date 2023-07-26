@@ -64,7 +64,7 @@ contact_page
 
 <h4><span class="material-symbols-rounded">
 folder_data
-</span> Link del repositorio de la aplicacion en <a class="aug" href="">github</a></h4>
+</span> Link del repositorio de la aplicacion en <a class="aug" href="https://github.com/ericksonxd/GaleryU">github</a></h4>
 
 <hr>     
 
